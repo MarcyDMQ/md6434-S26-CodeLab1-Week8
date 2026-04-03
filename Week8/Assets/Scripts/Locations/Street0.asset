@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b47ec317410d1c4f8a70862800eab47, type: 3}
+  m_Name: Street0
+  m_EditorClassIdentifier: Assembly-CSharp::Location
+  name: Street0
+  description: Someone is drunk.
+  locationImage: {fileID: 21300000, guid: 16ad981748597cf4b82624efa635c18f, type: 3}
+  northLocation: {fileID: 11400000, guid: 9b0a3272e30d584478c29701ab99d2dc, type: 2}
+  southLocation: {fileID: 11400000, guid: 1a5dc65a9b6419f48becd6c5a7d3f645, type: 2}
+  westLocation: {fileID: 11400000, guid: 9246f607b95d64348bdebcea85c59db8, type: 2}
+  eastLocation: {fileID: 11400000, guid: c88484e35b342a2449e1a8e7a5fc040e, type: 2}

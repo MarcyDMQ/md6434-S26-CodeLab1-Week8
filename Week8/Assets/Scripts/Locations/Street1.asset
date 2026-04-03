@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b47ec317410d1c4f8a70862800eab47, type: 3}
+  m_Name: Street1
+  m_EditorClassIdentifier: Assembly-CSharp::Location
+  name: Street1
+  description: A crossroad.
+  locationImage: {fileID: 21300000, guid: 945a689d7c9fba44491514cadd8c93f4, type: 3}
+  northLocation: {fileID: 11400000, guid: df645a7baf5a48f4f88e938999e27cae, type: 2}
+  southLocation: {fileID: 11400000, guid: ba88a39ccbc3b1142b48ae9d2f95b93a, type: 2}
+  westLocation: {fileID: 11400000, guid: 11dbef546dc0d184fa0f38ded88d363a, type: 2}
+  eastLocation: {fileID: 11400000, guid: 0dacc7cb016e02548818c61156facf94, type: 2}
